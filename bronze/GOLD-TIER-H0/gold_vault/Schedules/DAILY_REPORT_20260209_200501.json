@@ -1,0 +1,19 @@
+{
+  "report_type": "daily_summary",
+  "date": "2026-02-09",
+  "metrics": {
+    "tasks_completed": 24,
+    "errors_encountered": 0,
+    "api_calls": 156,
+    "emails_sent": 8,
+    "posts_created": 3
+  },
+  "agents_status": {
+    "watcher": "active",
+    "processor": "active",
+    "poster": "active",
+    "analyst": "active",
+    "coordinator": "active"
+  },
+  "timestamp": "2026-02-09T20:05:01.218203"
+}

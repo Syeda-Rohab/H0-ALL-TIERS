@@ -1,0 +1,22 @@
+{
+  "skill": "notion_integration",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "action": "read",
+    "result": {
+      "status": "invalid_action",
+      "supported_actions": [
+        "create_page",
+        "update_page",
+        "read_page",
+        "search"
+      ]
+    },
+    "notion_timestamp": "2026-02-09T20:12:46.224879"
+  },
+  "duration_seconds": 1.6450881958007812e-05,
+  "timestamp": "2026-02-09T20:12:46.224913",
+  "session_id": "session_1770649966"
+}

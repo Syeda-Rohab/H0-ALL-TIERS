@@ -1,0 +1,24 @@
+{
+  "skill": "email_analysis",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "subject": "No Subject",
+    "content_length": 0,
+    "sentiment": "neutral",
+    "urgency": "normal",
+    "keywords": [],
+    "entities": {
+      "dates": [],
+      "amounts": [],
+      "people": [],
+      "organizations": []
+    },
+    "action_items": [],
+    "analysis_timestamp": "2026-02-09T20:12:46.221069"
+  },
+  "duration_seconds": 0.00048732757568359375,
+  "timestamp": "2026-02-09T20:12:46.221169",
+  "session_id": "session_1770649966"
+}

@@ -1,0 +1,18 @@
+{
+  "task_id": "weekly_maintenance",
+  "event_type": "scheduled",
+  "details": {
+    "id": "weekly_maintenance",
+    "function": "<bound method GoldTierScheduler.weekly_system_maintenance of <scheduling_system.GoldTierScheduler object at 0x0000028035F41550>>",
+    "frequency": "weekly",
+    "time_spec": "sunday at 02:00",
+    "type": "system_maintenance",
+    "description": "Weekly system maintenance",
+    "last_run": null,
+    "next_run": null,
+    "run_count": 0,
+    "enabled": true,
+    "created_at": "2026-02-09T20:06:01.012923"
+  },
+  "timestamp": "2026-02-09T20:06:01.012972"
+}

@@ -1,0 +1,21 @@
+{
+  "skill": "social_media_posting",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "platform": "linkedin",
+    "content_preview": "",
+    "result": {
+      "post_id": "linkedin_post_1770649966",
+      "status": "posted",
+      "content_preview": "",
+      "scheduled_time": null,
+      "posted_at": "2026-02-09T20:12:46.225879"
+    },
+    "posting_timestamp": "2026-02-09T20:12:46.225886"
+  },
+  "duration_seconds": 2.2411346435546875e-05,
+  "timestamp": "2026-02-09T20:12:46.225917",
+  "session_id": "session_1770649966"
+}

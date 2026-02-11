@@ -1,0 +1,34 @@
+{
+  "skill": "error_handling",
+  "input": {
+    "type": "connection",
+    "error": {
+      "message": "Connection timeout",
+      "code": 408
+    },
+    "retry_count": 2
+  },
+  "result": {
+    "error_type": "connection",
+    "retry_count": 2,
+    "result": {
+      "status": "recovered",
+      "recovery_attempts": 3,
+      "recovery_result": {
+        "applied_methods": [
+          "retry_connection",
+          "switch_server"
+        ],
+        "status": "attempted",
+        "next_steps": [
+          "monitor",
+          "escalate_if_fails"
+        ]
+      }
+    },
+    "handling_timestamp": "2026-02-09T20:06:29.411346"
+  },
+  "duration_seconds": 1.8358230590820312e-05,
+  "timestamp": "2026-02-09T20:06:29.411377",
+  "session_id": "session_1770649589"
+}

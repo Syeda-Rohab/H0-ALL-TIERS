@@ -1,0 +1,34 @@
+{
+  "skill": "data_analytics",
+  "input": {
+    "analysis_type": "summary",
+    "dataset": [
+      {
+        "value": 100
+      },
+      {
+        "value": 200
+      },
+      {
+        "value": 150
+      }
+    ]
+  },
+  "result": {
+    "analysis_type": "summary",
+    "result": {
+      "total_records": 3,
+      "fields_analyzed": 1,
+      "summary_statistics": "Calculated for numerical fields",
+      "data_types": [
+        "text",
+        "number",
+        "date"
+      ]
+    },
+    "analytics_timestamp": "2026-02-09T20:06:01.027592"
+  },
+  "duration_seconds": 1.71661376953125e-05,
+  "timestamp": "2026-02-09T20:06:01.027625",
+  "session_id": "session_1770649561"
+}

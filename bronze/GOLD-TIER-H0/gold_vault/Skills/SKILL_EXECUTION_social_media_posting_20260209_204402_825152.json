@@ -1,0 +1,22 @@
+{
+  "skill": "social_media_posting",
+  "input": {
+    "platform": "linkedin",
+    "content": "Exciting developments in AI technology transforming business operations."
+  },
+  "result": {
+    "platform": "linkedin",
+    "content_preview": "Exciting developments in AI technology transforming business operations.",
+    "result": {
+      "post_id": "linkedin_post_1770651842",
+      "status": "posted",
+      "content_preview": "Exciting developments in AI technology transforming business operations.",
+      "scheduled_time": null,
+      "posted_at": "2026-02-09T20:44:02.825128"
+    },
+    "posting_timestamp": "2026-02-09T20:44:02.825140"
+  },
+  "duration_seconds": 0.0006289482116699219,
+  "timestamp": "2026-02-09T20:44:02.825192",
+  "session_id": "session_1770651842"
+}

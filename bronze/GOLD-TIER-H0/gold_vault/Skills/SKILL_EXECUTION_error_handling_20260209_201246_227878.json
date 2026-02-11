@@ -1,0 +1,28 @@
+{
+  "skill": "error_handling",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "error_type": "unknown",
+    "retry_count": 0,
+    "result": {
+      "status": "recovered",
+      "recovery_attempts": 1,
+      "recovery_result": {
+        "applied_methods": [
+          "retry"
+        ],
+        "status": "attempted",
+        "next_steps": [
+          "monitor",
+          "escalate_if_fails"
+        ]
+      }
+    },
+    "handling_timestamp": "2026-02-09T20:12:46.227868"
+  },
+  "duration_seconds": 1.9788742065429688e-05,
+  "timestamp": "2026-02-09T20:12:46.227900",
+  "session_id": "session_1770649966"
+}

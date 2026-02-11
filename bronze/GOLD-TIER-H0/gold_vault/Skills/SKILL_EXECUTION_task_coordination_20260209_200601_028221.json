@@ -1,0 +1,71 @@
+{
+  "skill": "task_coordination",
+  "input": {
+    "tasks": [
+      {
+        "id": "task1",
+        "name": "Research"
+      },
+      {
+        "id": "task2",
+        "name": "Analysis"
+      }
+    ],
+    "dependencies": {
+      "task2": [
+        "task1"
+      ]
+    }
+  },
+  "result": {
+    "tasks_to_execute": 2,
+    "dependencies_resolved": [
+      {
+        "task_id": "task2",
+        "dependencies": [
+          "task1"
+        ],
+        "can_start": false
+      }
+    ],
+    "priority_sequence": [
+      {
+        "task": {
+          "id": "task1",
+          "name": "Research"
+        },
+        "sequence_number": 0
+      },
+      {
+        "task": {
+          "id": "task2",
+          "name": "Analysis"
+        },
+        "sequence_number": 1
+      }
+    ],
+    "resource_allocation": {
+      "total_resources": 10,
+      "allocated_per_task": {
+        "task1": 2,
+        "task2": 2
+      },
+      "remaining_resources": 6
+    },
+    "estimated_timeline": {
+      "estimated_duration": "4 hours",
+      "start_date": "2026-02-09T20:06:01.028197",
+      "end_date": "2026-02-10T00:06:01.028202",
+      "critical_path": [
+        {
+          "id": "task1",
+          "name": "Research"
+        }
+      ]
+    },
+    "coordination_timestamp": "2026-02-09T20:06:01.028213"
+  },
+  "duration_seconds": 4.696846008300781e-05,
+  "timestamp": "2026-02-09T20:06:01.028243",
+  "session_id": "session_1770649561"
+}

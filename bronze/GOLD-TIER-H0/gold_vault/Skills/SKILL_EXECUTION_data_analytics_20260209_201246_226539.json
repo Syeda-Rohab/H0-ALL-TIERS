@@ -1,0 +1,19 @@
+{
+  "skill": "data_analytics",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "analysis_type": "summary",
+    "result": {
+      "total_records": 0,
+      "fields_analyzed": 0,
+      "summary_statistics": "Calculated for numerical fields",
+      "data_types": []
+    },
+    "analytics_timestamp": "2026-02-09T20:12:46.226528"
+  },
+  "duration_seconds": 1.7881393432617188e-05,
+  "timestamp": "2026-02-09T20:12:46.226561",
+  "session_id": "session_1770649966"
+}

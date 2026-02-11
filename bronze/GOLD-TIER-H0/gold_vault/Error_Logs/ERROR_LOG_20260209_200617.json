@@ -1,0 +1,8 @@
+{
+  "error": "Test error for retry logic",
+  "task": {
+    "type": "test_error"
+  },
+  "timestamp": "2026-02-09T20:06:17.947735",
+  "traceback": "NoneType: None\n"
+}

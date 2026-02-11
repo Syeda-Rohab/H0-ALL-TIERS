@@ -1,0 +1,19 @@
+{
+  "skill": "content_creation",
+  "input": {
+    "type": "linkedin_post",
+    "topic": "AI Innovation",
+    "audience": "tech_professionals"
+  },
+  "result": {
+    "content_type": "linkedin_post",
+    "topic": "AI Innovation",
+    "audience": "tech_professionals",
+    "content": "Thrilled to share insights on AI Innovation and its impact on tech_professionals in today's market. #Innovation #Business",
+    "word_count": 17,
+    "creation_timestamp": "2026-02-09T20:29:33.489219"
+  },
+  "duration_seconds": 0.0004329681396484375,
+  "timestamp": "2026-02-09T20:29:33.489285",
+  "session_id": "session_1770650973"
+}

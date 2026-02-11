@@ -1,0 +1,26 @@
+{
+  "skill": "notion_integration",
+  "input": {
+    "action": "create_page",
+    "content": {
+      "title": "Project Plan",
+      "body": "Detailed project plan for Q1 initiatives"
+    }
+  },
+  "result": {
+    "action": "create_page",
+    "result": {
+      "page_id": "page_1770649577",
+      "status": "created",
+      "content": {
+        "title": "Project Plan",
+        "body": "Detailed project plan for Q1 initiatives"
+      },
+      "created_at": "2026-02-09T20:06:17.942359"
+    },
+    "notion_timestamp": "2026-02-09T20:06:17.942366"
+  },
+  "duration_seconds": 2.0742416381835938e-05,
+  "timestamp": "2026-02-09T20:06:17.942394",
+  "session_id": "session_1770649577"
+}

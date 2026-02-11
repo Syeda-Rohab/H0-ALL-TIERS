@@ -1,0 +1,35 @@
+{
+  "skill": "calendar_management",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "action": "view",
+    "result": {
+      "status": "retrieved",
+      "date_range": {},
+      "events_count": 3,
+      "events": [
+        {
+          "id": "event1",
+          "title": "Meeting",
+          "time": "10:00 AM"
+        },
+        {
+          "id": "event2",
+          "title": "Review",
+          "time": "2:00 PM"
+        },
+        {
+          "id": "event3",
+          "title": "Planning",
+          "time": "4:00 PM"
+        }
+      ]
+    },
+    "calendar_timestamp": "2026-02-09T20:12:46.224152"
+  },
+  "duration_seconds": 2.09808349609375e-05,
+  "timestamp": "2026-02-09T20:12:46.224195",
+  "session_id": "session_1770649966"
+}

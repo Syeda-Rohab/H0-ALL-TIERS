@@ -1,0 +1,17 @@
+{
+  "skill": "content_creation",
+  "input": {
+    "test": "data"
+  },
+  "result": {
+    "content_type": "generic",
+    "topic": "General Topic",
+    "audience": "General",
+    "content": "Content related to General Topic has been generated based on best practices and current trends in the industry.",
+    "word_count": 18,
+    "creation_timestamp": "2026-02-09T20:12:46.223264"
+  },
+  "duration_seconds": 2.86102294921875e-05,
+  "timestamp": "2026-02-09T20:12:46.223318",
+  "session_id": "session_1770649966"
+}

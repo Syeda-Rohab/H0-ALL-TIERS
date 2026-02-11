@@ -1,0 +1,202 @@
+{
+  "report_type": "gold_tier_comprehensive",
+  "generation_time": "2026-02-09T20:44:02.840757",
+  "components_status": {
+    "orchestrator": {
+      "orchestrator": "running",
+      "agents_active": 5,
+      "mcp_status": "online",
+      "scheduler_status": "running",
+      "skills_status": "loaded",
+      "start_time": "2026-02-09T20:44:02.683124"
+    },
+    "assistant": {
+      "system": "Gold Tier Orchestrated AI Team",
+      "status": "operational",
+      "timestamp": "2026-02-09T20:44:02.840789",
+      "agents": {
+        "watcher": "active",
+        "processor": "active",
+        "poster": "active",
+        "analyst": "active",
+        "coordinator": "active"
+      },
+      "agent_stats": {
+        "watcher": {
+          "processed": 1,
+          "errors": 0
+        },
+        "processor": {
+          "processed": 1,
+          "errors": 0
+        },
+        "poster": {
+          "posted": 0,
+          "errors": 0
+        },
+        "analyst": {
+          "reports": 0,
+          "errors": 0
+        },
+        "coordinator": {
+          "coordinated": 1,
+          "errors": 0
+        }
+      },
+      "analytics": {
+        "tasks_completed": 3,
+        "agents_active": 5,
+        "errors_encountered": 1,
+        "retries_performed": 0,
+        "api_calls_made": 3,
+        "start_time": "2026-02-09T20:44:02.677772",
+        "performance_metrics": {}
+      },
+      "queues": {
+        "watcher": 0,
+        "processor": 2,
+        "poster": 1,
+        "analyst": 0,
+        "coordinator": 0
+      },
+      "vault_status": {
+        "path": "gold_vault",
+        "folders": 15,
+        "last_update": "2026-02-09T20:44:02.841079"
+      }
+    },
+    "mcp_server": {
+      "status": "online",
+      "request_counts": {
+        "notion": 1,
+        "calendar": 1,
+        "email": 1,
+        "total": 3
+      },
+      "error_count": 0
+    },
+    "scheduler": {
+      "scheduler_running": true,
+      "total_scheduled_tasks": 5,
+      "active_tasks": 5,
+      "disabled_tasks": 0,
+      "task_summary": {
+        "daily_sync": {
+          "type": "data_sync",
+          "frequency": "daily",
+          "last_run": null,
+          "run_count": 0,
+          "enabled": true
+        },
+        "daily_report": {
+          "type": "report_generation",
+          "frequency": "daily",
+          "last_run": "2026-02-09T20:44:02.809328",
+          "run_count": 1,
+          "enabled": true
+        },
+        "weekly_analytics": {
+          "type": "analytics_update",
+          "frequency": "weekly",
+          "last_run": null,
+          "run_count": 0,
+          "enabled": true
+        },
+        "weekly_maintenance": {
+          "type": "system_maintenance",
+          "frequency": "weekly",
+          "last_run": null,
+          "run_count": 0,
+          "enabled": true
+        },
+        "hourly_check": {
+          "type": "error_check",
+          "frequency": "hourly",
+          "last_run": null,
+          "run_count": 0,
+          "enabled": true
+        }
+      },
+      "timestamp": "2026-02-09T20:44:02.841133"
+    },
+    "skills_system": {
+      "email_analysis": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.002220630645751953,
+        "last_executed": "2026-02-09T20:44:02.816250"
+      },
+      "content_creation": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.0005018711090087891,
+        "last_executed": "2026-02-09T20:44:02.821134"
+      },
+      "calendar_management": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.00034165382385253906,
+        "last_executed": "2026-02-09T20:44:02.822418"
+      },
+      "notion_integration": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.00010275840759277344,
+        "last_executed": "2026-02-09T20:44:02.823370"
+      },
+      "social_media_posting": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.0006289482116699219,
+        "last_executed": "2026-02-09T20:44:02.825146"
+      },
+      "data_analytics": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.0005240440368652344,
+        "last_executed": "2026-02-09T20:44:02.827070"
+      },
+      "task_coordination": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.0005776882171630859,
+        "last_executed": "2026-02-09T20:44:02.829853"
+      },
+      "error_handling": {
+        "executions": 1,
+        "successes": 1,
+        "failures": 0,
+        "avg_duration": 0.0004127025604248047,
+        "last_executed": "2026-02-09T20:44:02.831451"
+      }
+    }
+  },
+  "integration_status": {
+    "multi_agent_orchestration": "operational",
+    "advanced_mcp_integration": "operational",
+    "analytics_dashboard": "operational",
+    "error_handling": "operational",
+    "scheduling_system": "operational",
+    "specialized_skills": "operational"
+  },
+  "performance_metrics": {
+    "total_agents": 5,
+    "total_scheduled_tasks": 5,
+    "total_specialized_skills": 8,
+    "api_calls_made": 3,
+    "tasks_completed": 3
+  },
+  "recommendations": [
+    "Continue monitoring system performance",
+    "Regularly review error logs",
+    "Optimize task scheduling based on usage patterns",
+    "Expand specialized skills as needed"
+  ]
+}

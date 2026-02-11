@@ -1,0 +1,18 @@
+{
+  "task_id": "hourly_check",
+  "event_type": "scheduled",
+  "details": {
+    "id": "hourly_check",
+    "function": "<bound method GoldTierScheduler.hourly_error_check of <scheduling_system.GoldTierScheduler object at 0x00000222041356A0>>",
+    "frequency": "hourly",
+    "time_spec": "every_hour",
+    "type": "error_check",
+    "description": "Hourly error checking",
+    "last_run": null,
+    "next_run": null,
+    "run_count": 0,
+    "enabled": true,
+    "created_at": "2026-02-09T20:04:48.106109"
+  },
+  "timestamp": "2026-02-09T20:04:48.106220"
+}
