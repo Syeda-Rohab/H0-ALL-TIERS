@@ -1,0 +1,17 @@
+{
+  "original_data": {
+    "source": "filesystem",
+    "data": "Simulated filesystem data",
+    "timestamp": "2026-03-12T00:22:03.957400",
+    "type": "file_change",
+    "urgent": false
+  },
+  "platform": "filesystem",
+  "processed_at": "2026-03-12T00:22:03.959195",
+  "analysis": {
+    "sentiment": "neutral",
+    "urgency": "low",
+    "category": "file_management",
+    "action_required": false
+  }
+}

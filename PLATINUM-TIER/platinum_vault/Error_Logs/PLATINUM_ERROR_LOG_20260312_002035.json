@@ -1,0 +1,10 @@
+{
+  "error": "Business integration agent error: 'type'",
+  "task": {
+    "id": 4,
+    "action": "Integrate",
+    "category": "business",
+    "priority": "TaskPriority.MEDIUM"
+  },
+  "timestamp": "2026-03-12T00:20:35.826376"
+}
